@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short prayer for children and servants.</title>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B10032</idno><idno type="EEBO-CITATION">80923670</idno>
+  <idno type="VID">192000</idno>
+  <idno type="EEBO-PROQUEST">2248552709</idno>
+  
+            <idno type="OCLC"> 80923670</idno>
+            <idno type="STC">Wing S3611A</idno>
+            <idno type="STC">ESTC R15333</idno>
+            <idno type="OCLC">80923670</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B10032)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192000)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2897:26, 1641-1700 , 2984:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short prayer for children and servants.</title>
+                  <author>Hale, Matthew, Sir, 1609-1676. Poems upon Christmas-day.</author>
+                  <author>Bacon, Francis, 1561-1626. Confession of faith.</author>
+               </titleStmt>
+               <extent>10 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Includes: Poems upon Christmas-day. By the late Lord Chief-Justice Hale (p. 7-10).</note>
+                  <note>Copy at reel 2984:24 is improved filming; includes reprints of Poems upon Christmas-Day by Matthew Hale and A confession of faith by Francis Bacon.</note>
+                  <note>Imperfect: copy at reel 2897:26 is tightly bound.</note>
+                  <note>Reproductions of original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Prayers --  Early works to 1800.</term>
+               <term type="topical_term">Christmas --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="prayer">
+            <pb n="1" facs="tcp:192000:1"/>
+            <head>A short <hi>Prayer</hi> for <hi>Children</hi> and <hi>Servants.</hi>
+            </head>
+            <p>EVer-living and most Glorious God, Father, Son and Holy-Ghost! Infinite is thy Power, thy Wis<g ref="char:EOLhyphen"/>dom and thy Goodness! Thou art the Maker of all the World, the Redeemer of lost and sinful Man, and the Sanctifier of the Elect! Thou hast made me a living reasonable Soul, placed a while in this Flesh and World to Know, and Love, and serve thee my Creator, with all my Heart and Mind, and Strength, that I might obtain the Reward of the heavenly Glory. This should have been the greatest care, and business, and pleasure of all my Life: I was bound to it by thy Law: I was invited by thy Mercy. And in my Baptism I was devoted to this holy life, by a solemn Covenant and Vow! But alas, I have proved too unfaithful to that Covenant: I have forgotten and neglected the God, the Saviour, and the Sanctifier, to whom I was engaged: And have too much served the Devil, the World and the Flesh, which I renounced: I was born in sin, and sinfully I have lived. I have been too care<g ref="char:EOLhyphen"/>less of my Immortal Soul, and of the great work for which I was created and redeemed; I have spent much of my precious time in vanity, in minding and pleasing this corruptible Flesh; And I have hardned my heart against those Instructions, by which thy Spirit, and my Teachers, and my own Conscience, did call upon me to repent and turn to thee.</p>
+            <p>And now, Lord, my convinced Soul doth confess, that I have deserved to be forsaken by thee, and given over to my lust and folly, and to be cast out of thy glorious Presence into Damnation. But seeing thou hast given a Saviour to the World, and made a par<g ref="char:EOLhyphen"/>doning and gracious Law, promising forgiveness and salvation through his Merits, to every true penitent Believer, I thankfully accept the mercy of thy Cove<g ref="char:EOLhyphen"/>nant in Christ; I humbly confess my sin and guilti<g ref="char:EOLhyphen"/>ness:
+<pb n="2" facs="tcp:192000:2"/> I cast my miserable Soul upon thy Grace, and the Merits, and Sacrifice and Intercession of my Saviour. O pardon all the sins of my corrupted heart and life; And as a Reconciled Father take me to be thy Child; And give me thy renewing Spirit, to be in me a Principle of holy Life, and Light and Love, and thy Seal and Witness that I am thine; let him quicken my dead and hardned heart; let him enlighten my dark unbelieving Mind, by clearer knowledge and firm belief; let him turn my will to the ready Obedience of thy holy Will; let him reveal to my Soul the wonders of thy love in Christ, and fill it with love to Thee and my Redeemer, and to all thy holy word and works; till all my sinful carnal love be quenched in me, and my sinful pleasures turned into a sweet Delight, in God; give me self-denial, humility and lowliness, and save me from the great and hateful sins of Selfishness, Worldliness and Pride. O set my Heart upon the Heavenly Glory, where I hope e're long to live with Christ and all his holy Ones, in the joyful sight and love and praise of Thee the God of love for ever. Deny me not any of those helps and mercies, which are needful to my Sanctification and Salvation. And cause me to live in a continual readiness, for a safe and comfortable Death: For what would it profit me to win all the World, and lose my Soul, my Saviour, and my God</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="prayer_for_children">
+                        <head>Additions for Children.</head>
+                        <p>Let thy Blessing be up<g ref="char:EOLhyphen"/>on my Parents and Go<g ref="char:EOLhyphen"/>vernours; Cause them to instruct and Educate me in thy fear, and cause me with thankfulness to re<g ref="char:EOLhyphen"/>ceive their Instructions; and to love, honour and obey them, in Obedience
+<pb n="3" facs="tcp:192000:2"/> to thee. Keep me from the snares of Evil Com<g ref="char:EOLhyphen"/>pany, Temptations, and Youthful Pleasures; and let me be a Companion of them that fear thee. Let my daily delight be to Meditate on thy Law; and let me never have the mark of the Ungodly, to be a Lover of Pleasures more than of God. Fur<g ref="char:EOLhyphen"/>nish my Youth with those Treasures of Wisdom and Holiness, which may be daily increased and used to thy Glory.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="prayer_for_servants">
+                        <pb n="2" facs="tcp:192000:2"/>
+                        <head>Additions for Servants.</head>
+                        <p>And as thou hast made me a Servant, make me conscionable and faithful, in my place and trust, and careful of my Masters Goods and Business, as I would be if it were my own. Make me submis<g ref="char:EOLhyphen"/>sive and obedient to my
+<pb n="3" facs="tcp:192000:2"/> Governours; Keep me from self-will and pride, from murmuring and un<g ref="char:EOLhyphen"/>reverent speeches, from falshood, slothfulness and all deceit; That I might not be an eve-servant, plea<g ref="char:EOLhyphen"/>sing my lust and fleshly ap<g ref="char:EOLhyphen"/>petite; but may chearfully and willingly do my duty, as believing that thou art the revenger of all un<g ref="char:EOLhyphen"/>faithfulness; and may do my service not only as un<g ref="char:EOLhyphen"/>to man but as to the Lord, expecting from thee my chief Reward.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>All this I beg and hope for, on the account of the Merits and Intercession of Jesus Christ, concluding in the words which he hath trught us, <hi>Our Father which art in Heaven, hallowed be thy Name, Thy Kingdom come, Thy Will be done, on Earth as it is in Heaven, Give us this day our daily Bread. And forgive us our Trespasses, as we forgive them that Trespass against us. And lead us not into Temptation; But deliver us from Evil. For thine is the Kingdom, the Power and the Glory, for ever,</hi>
+            </p>
+            <closer>Amen.</closer>
+         </div>
+         <div type="prayer">
+            <head>A plain and short <hi>Prayer</hi> for <hi>Families,</hi> for <hi>Morning</hi> and <hi>Evening.</hi>
+            </head>
+            <p>ALmighty, All-seeing and most Gracious God the World and all therein is made, maintained and ordered by thee: Thou art every where present being more than the soul of all the World. Though thou art revealed in thy Glory to those only that are in Heaven, thy Grace is still at work on Earth to pre<g ref="char:EOLhyphen"/>pare men for that Glory: Thou madest us not as the
+<pb n="4" facs="tcp:192000:3"/> Beasts that perish, but with reasonable immortal Souls to know and seek, and serve thee here, and then to live with all the blessed, in the everlasting sight of thy Heavenly Glory, and the Pleasures of thy perfect Love, and Praise. But we are ashamed to think how foolish<g ref="char:EOLhyphen"/>ly and sinfully we have forgotten and neglected our God and our Souls, and our hopes of blessed Immor<g ref="char:EOLhyphen"/>tality, and have overmuch minded the things of this visible transitory World, and the Prosperity and Plea<g ref="char:EOLhyphen"/>sure of this corruptible flesh, which we know must turn to rottenness and dust. Thou gavest us a Law which was just and good, to guide us in the only way to life, and when by sin we had undone our selves, thou gavest us a Saviour, even thy eternal Word made man, who by his holy life and bitter sufferings recon<g ref="char:EOLhyphen"/>ciled us to thee, and both purchased Salvation for us, and revealed it to us, better than an Angel from Hea<g ref="char:EOLhyphen"/>ven could have done, if thou hadst sent him to us sinners on such a message: But alas how light have we set by our Redeemer! And by all that Love which thou hast manifested by him, and how little have we studied and understood, and less obeyed that Covenant of Grace, which thou hast made by him to lost man<g ref="char:EOLhyphen"/>kind?</p>
+            <p>But O God be merciful to us vile and miserable sinners! Forgive the sins of our natural pravity and the follies of our youth, and all the ignorance, neg<g ref="char:EOLhyphen"/>ligence, omissions and commissions of our lives: And give us true Repentance for them, or else we know that thou wilt not forgive them. Our life is but as a shadow that passeth away, and it is but as a moment till we must leave this world, and appear before thee to give up our account, and to speed for ever as here we have prepared. Should we die before thou hast turned our hearts from this sinful flesh and world to thee by true Faith and Repentance, we shall be lost for evermore. O woe to us that ever we were born, if thou forgive not our sins, and make
+<pb n="5" facs="tcp:192000:3"/> us not holy before this short uncertain life be at an end: Had we all the riches and pleasures of this world, they would shortly leave us in the greater sorrows. We know that all our life is but the time which thy mercy allotteth us to prepare for death: Therefore we should not put off our repentance and preparation to a sick bed: But now Lord, as if it were our last and dying words, we earnestly beg thy pardoning and sanctifying Grace through the merits and inter<g ref="char:EOLhyphen"/>cession of our Redeemer: O thou that hast pitied and saved so many millions of miserable sinners, pity and save us also, that we may glorifie thy Grace for ever; surely thou delightest not in the death of sinners, but rather that they return and live: Hadst thou been unwilling to shew mercy, thou wouldst not have ransomed us by so precious a price, and still <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ntreat us to be reconciled unto thee; We have no cause to distrust thy Truth or Goodness; but we are afraid left unbelief, and pride, and hypocrisie, and a worldly fleshly mind, should be our ruine. O save us from Satan, and this tempting world, but especially from our selves: Teach us to deny all ungodliness and fleshly lusts, and to live soberly, righteously and godly in this World. Let it be our chiefest daily work to please thee, and to lay up a treasure in Hea<g ref="char:EOLhyphen"/>ven, and to make sure of a blessed life with Christ, and quietly to trust thee with soul and body. Make us faithful in our callings, and our duties to one another, and to all men, to our superiours, equals and in<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eriours: Bless the King, and all in Authority, that we may live a quiet and peaceable life in all godliness and honesty: Give wise, holy, and peace<g ref="char:EOLhyphen"/>able Pastors to all the Churches of Christ, and holy and peaceable minds to the People: Convert the Heathen and Infidel Nations of the world; And cause us and all thy people to seek first the Hallowing of thy name, the coming of thy <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ingd<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m, the doing of thy will on Earth as it is do<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in Heaven. Gi<gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:192000:4"/> our daily bread, even all things necessary to life and godliness, and let us be therewith content. Forgive us our daily sins, and let thy love and mercy constrain us to love thee above all; and for thy sake to love our Neighbours as our selves, and in all our dealings, to do justly and mercifully, as we would have others do by us. Keep us from hurtful temptations, from sin, and from thy judgments, and from the malice of our spiritual and corporal enemies: And let all our Thoughts, Affections, Passions. Words and Actions, be governed by thy Word and Spirit to thy Glory; Make all our Religion and Obedience pleasant to us; and let our souls be so delighted in the praise of thy Kingdom thy Power and thy Glory, that in may se<g ref="char:EOLhyphen"/>cure and sweeten our labour by day, and our rest by night, and keep us in a longing and joyful hope of the heavenly Glory; And let the Grace of our Lord Jesus Christ, and the Love of God our Father, and the Communion of the holy Spirit be with us now and for ever, <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="poems">
+            <pb n="7" facs="tcp:192000:4"/>
+            <head>POEMS UPON <hi>CHRISTMAS-DAY.</hi> By the late Lord Chief-Justice <hi>Hale.</hi>
+            </head>
+            <div n="1" type="part">
+               <head>I.</head>
+               <l>ALmighty God, when he had rais'd the Frame</l>
+               <l>Of Heaven and Earth, and furnished the same</l>
+               <l>With works of equal wonder, framed then</l>
+               <l>A piece of greater Excellence, call'd Man:</l>
+               <l>Gave him a comprehensive Soul, that soar'd</l>
+               <l>Above the Creatures, and beheld their Lord;</l>
+               <l>Inscrib'd him with his Image, and did fill</l>
+               <l>The compass of his Intellect and Will,</l>
+               <l>With Truth and Good; gave him the Custody</l>
+               <l>Of his own Bliss and Immortality.</l>
+               <l>And justly now his Soveraign might demand,</l>
+               <l>Subjection and Obedience at his hand:</l>
+               <l>Were only Being given, 'twere but right</l>
+               <l>His Debt of Duty should be infinite:</l>
+               <l>But here was more, a super-added dress</l>
+               <l>Of Life, Perfection, and Happiness.</l>
+               <l>Yet this great King, for an <hi>Experiment</hi>
+               </l>
+               <l>
+                  <hi>Of Man's deserv'd Allegiance,</hi> is content</l>
+               <l>To use an easie Precept, such as stood</l>
+               <l>Both with his Creatures Duty and his Good;</l>
+               <l>Forbids one Fruit, on pain of death, and gives</l>
+               <l>Freely the rest which he might eat and live.</l>
+               <pb n="8" facs="tcp:192000:5"/>
+               <l>But <hi>Man Rebels,</hi> and for one tast doth choose,</l>
+               <l>His Life, his God, his Innocence to loose.</l>
+               <l>And now death-stricken, like a wounded Deer,</l>
+               <l>Strictly pursu'd by Guilt, and Shame, and Fear,</l>
+               <l>He seeks to lose himself; from God he flies,</l>
+               <l>And takes a Wilderness of Miseries;</l>
+               <l>A Land of new transgressions, where his Curse</l>
+               <l>Is closer bound, his Nature growing worse.</l>
+               <l>And whiles in this condition Man-kind lay,</l>
+               <l>A man should think his injur'd God should say,</l>
+               <l>There lies Accursed Man, and let him lie</l>
+               <l>Intangled in that Web of Misery,</l>
+               <l>Which his own Sin hath spun; I must be True</l>
+               <l>And Just. Ʋnthankful Man, thou hast thy due.</l>
+               <l>But 'twas not so. Though Man the Mastery,</l>
+               <l>With his Creator's Power and Will, dares try;</l>
+               <l>And being over-matcht with Power, disdains</l>
+               <l>To seek a Pardon from his Soveraign;</l>
+               <l>The Great and Glorious God, the Mighty King</l>
+               <l>Of Heaven and Earth, despis'd by such a thing</l>
+               <l>As man, a Worm of his own making, breaks</l>
+               <l>The rules of Greatness, and his Creature seeks,</l>
+               <l>His froward Creature; not in such a way</l>
+               <l>As once he did in the cool of that day,</l>
+               <l>Wherein Man sinn'd, and hid; such Majesty</l>
+               <l>Had been too great for Man's necessity:</l>
+               <l>But the Eternal <hi>Son of God,</hi> the Word,</l>
+               <l>By which all things were made, the Mighty Lord,</l>
+               <l>
+                  <hi>Assumes our Flesh,</hi> and under that he lays,</l>
+               <l>And hides his Greatness, and those Glorious Rayes</l>
+               <l>Of Majesty, which had been over bright,</l>
+               <l>And too respl<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndent for poor Mortals sight;</l>
+               <l>And under this disguise, the King of Kings,</l>
+               <l>The Message of his Fathers Mercy brings;</l>
+               <l>Solicits Man's return; pays the Price</l>
+               <l>Of his Transgression by the Sacrifice</l>
+               <l>Of his own Soul; and undertakes to cure</l>
+               <l>Their Sins, their Peace and Pardon to procure;</l>
+               <pb n="9" facs="tcp:192000:5"/>
+               <l>To conquer Death for him; and more than this,</l>
+               <l>To settle him in Everlasting Bliss.</l>
+               <l>And now, O Man, could this excess of Love,</l>
+               <l>Thy Thankfulness to such a height improve,</l>
+               <l>That it could fire thy Soul into me flame</l>
+               <l>Of Love, to only him that bought the same</l>
+               <l>At such a rate, yet still it were too small</l>
+               <l>To recompense thy Saviours Love withal;</l>
+               <l>Once did he give thee Being from the dust,</l>
+               <l>And for that only Being, 'twere but just</l>
+               <l>To pay thy utmost self: But when once more</l>
+               <l>Thy Being, and thy Bliss he did restore</l>
+               <l>By such a means as this, it doth bereave</l>
+               <l>Thy Soul of hopes of recompence, and leaves</l>
+               <l>Thy Soul insolvent. Twice to him this day</l>
+               <l>Thou ow'st thy self, yet but One self canst pay.</l>
+            </div>
+            <div n="2" type="part">
+               <head>II.</head>
+               <l>The <hi>Prince of Darkness,</hi> flesht with Victory</l>
+               <l>In our first Parents first Apostacy,</l>
+               <l>Ʋsurpt a Lawless Soveraignty on Man,</l>
+               <l>Revolted thus from his first Soveraign:</l>
+               <l>And though by that Apostacy he found,</l>
+               <l>Ʋnder the chains of death his Vassal bound,</l>
+               <l>Yet to secure his Empire, he o're-spread</l>
+               <l>The World with Darkness, and thereby did lead</l>
+               <l>His Captives as he pleased: Thus he bears</l>
+               <l>His Rule usurped, near four thousand years;</l>
+               <l>Except some small confin'd Plantation,</l>
+               <l>Within a Family or Nation.</l>
+               <l>But now to put a period to this Reign</l>
+               <l>Of this Ʋsurper, and reduce again,</l>
+               <l>
+                  <hi>Man</hi> to his Just Subjection, 'tis decreed</l>
+               <l>That Man from this Subjection shall be <hi>Freed;</hi>
+               </l>
+               <l>And this not by the absolute Command</l>
+               <l>Of an immediate Power; nor shall the Bands</l>
+               <pb n="10" facs="tcp:192000:6"/>
+               <l>Of Angels Glorious Hosts ingaged be,</l>
+               <l>To rescue Man from this Captivity:</l>
+               <l>But God an <hi>unsuspected means</hi> intends,</l>
+               <l>And yet most suitable unto this end.</l>
+               <l>Sin stain'd our Nature, and the Serpents wile,</l>
+               <l>Did man of Innocence and Life beguile:</l>
+               <l>By Man his head is crush'd; the Lawful Lord</l>
+               <l>Ʋnto his Creature, Man to his Life restor'd;</l>
+               <l>
+                  <hi>A Virgins Son</hi> is Born: This Rising Sun,</l>
+               <l>The Worlds inthralling darkness over-runs;</l>
+               <l>A Child to us is Born, whose Innocence,</l>
+               <l>Our Natures spot and stain doth purge and cleanse;</l>
+               <l>His Wounds, our Cure; his Bonds, our Liberty;</l>
+               <l>His Death becomes our Life, our Victory.</l>
+               <l>And this is He, whose Birth we Celebrate,</l>
+               <l>And from this Day our Happiness do Date.</l>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
